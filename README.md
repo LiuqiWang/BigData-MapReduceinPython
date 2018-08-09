@@ -15,3 +15,4 @@ Is created to calculate the total amount spent by customer. This code also gener
 SpentByCustomerOrder.py:
 Is created to sort the Total Amount spent by customer, sort by amount spent ASC. This code will generate output in a text file. 
 
+Note: for the two .py files above, make sure only run the last line, which is a comment. 
